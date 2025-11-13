@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 import Cart from "./Cart";
 import Productvedio from "./Productvedio";
-import Footer from "./Footer";
-import Navbar from "./Navbar";
+
 
 const MainPage = () => {
     const images = [
@@ -88,7 +87,7 @@ const MainPage = () => {
 
     return (
         <div className="bg-[#F0F5FF]">
-            <Navbar />
+            {/* <Navbar /> */}
             <div className="flex flex-col items-center w-full h-full bg-[#F0F5FF] ">
                 {/* Image */}
                 <img
@@ -211,7 +210,6 @@ const MainPage = () => {
                     </div>
                 </div>
             </div>
-            <Footer />
         </div>
     );
 };
