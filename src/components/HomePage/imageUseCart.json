@@ -1,0 +1,229 @@
+{
+    "categories": [
+        {
+            "title": "CUSTOMERS' FAV",
+            "images": [
+                {
+                    "main": "https://www.arata.in/cdn/shop/files/preview_images/bd738ceb9dc04bfc8232dde63bf4afe2.thumbnail.0000000000.jpg?v=1753094122&width=900",
+                    "subImage": "https://www.arata.in/cdn/shop/files/hair-growth-serum-for-men-and-women-regrowth-in-90-days-free-derma-987.webp?v=1749897380&width=900",
+                    "name": "Arata Hair ",
+                    "description": "Strong hold gel made from natural flaxseed. Perfect for daily",
+                    "price": "₹499",
+                    "rating": 4.5
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Customer+2",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+2",
+                    "name": "Natural Shampoo",
+                    "description": "Gentle cleanser with plant-based ingredients for soft, shiny hair.",
+                    "price": "₹599",
+                    "rating": 4.7
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Customer+3",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+3",
+                    "name": "Hydrating Conditioner",
+                    "description": "Deeply nourishes dry and frizzy hair with coconut and shea butter.",
+                    "price": "₹649",
+                    "rating": 4.6
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Customer+4",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+4",
+                    "name": "Hair Serum",
+                    "description": "Adds instant shine and smoothness while reducing frizz naturally.",
+                    "price": "₹749",
+                    "rating": 4.8
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Customer+5",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+5",
+                    "name": "Volume Boost Spray",
+                    "description": "Lightweight mist that gives volume without weighing your hair down.",
+                    "price": "₹699",
+                    "rating": 4.4
+                }
+            ]
+        },
+        {
+            "title": "SHARKS' FAVS",
+            "images": [
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Shark+1",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+1",
+                    "name": "Protein Hair Mask",
+                    "description": "Rebuilds hair strength and elasticity with plant-based proteins.",
+                    "price": "₹899",
+                    "rating": 4.9
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Shark+2",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+2",
+                    "name": "Cleansing Scalp Scrub",
+                    "description": "Removes buildup and refreshes scalp with peppermint and sea salt.",
+                    "price": "₹799",
+                    "rating": 4.7
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Shark+3",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+3",
+                    "name": "Repair Hair Oil",
+                    "description": "Infused with argan and jojoba oils to deeply condition damaged hair.",
+                    "price": "₹999",
+                    "rating": 4.8
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Shark+4",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+4",
+                    "name": "Curl Defining Cream",
+                    "description": "Defines curls naturally while keeping them soft and frizz-free.",
+                    "price": "₹649",
+                    "rating": 4.6
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Shark+5",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+5",
+                    "name": "Detangling Spray",
+                    "description": "Eases knots and adds shine with aloe and green tea extracts.",
+                    "price": "₹579",
+                    "rating": 4.5
+                }
+            ]
+        },
+        {
+            "title": "NEW LAUNCH",
+            "images": [
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Launch+1",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+1",
+                    "name": "Hair Repair Serum",
+                    "description": "A powerful serum that strengthens and restores dry hair.",
+                    "price": "₹749",
+                    "rating": 4.7
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Launch+2",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+2",
+                    "name": "Vitamin Boost Shampoo",
+                    "description": "Infused with biotin and vitamin B5 for stronger hair.",
+                    "price": "₹649",
+                    "rating": 4.6
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Launch+3",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+3",
+                    "name": "Daily Moisture Cream",
+                    "description": "Lightweight hydration that keeps hair soft all day.",
+                    "price": "₹699",
+                    "rating": 4.4
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Launch+4",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+4",
+                    "name": "Scalp Refresh Mist",
+                    "description": "Instantly cools and refreshes scalp, reducing oil buildup.",
+                    "price": "₹599",
+                    "rating": 4.5
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Launch+5",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+5",
+                    "name": "Hydra Glow Conditioner",
+                    "description": "Gives hair a silky, smooth texture with long-lasting shine.",
+                    "price": "₹749",
+                    "rating": 4.8
+                }
+            ]
+        },
+        {
+            "title": "SUPER SAVER",
+            "images": [
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Saver+1",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+1",
+                    "name": "Haircare Combo Pack",
+                    "description": "Complete hair kit at a discounted bundle price.",
+                    "price": "₹1,299",
+                    "rating": 4.9
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Saver+2",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+2",
+                    "name": "Daily Essential Duo",
+                    "description": "Shampoo + Conditioner combo for everyday use.",
+                    "price": "₹999",
+                    "rating": 4.6
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Saver+3",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+3",
+                    "name": "Hydration Kit",
+                    "description": "Three-step routine to keep your hair hydrated.",
+                    "price": "₹1,199",
+                    "rating": 4.7
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Saver+4",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+4",
+                    "name": "Travel Hair Set",
+                    "description": "Compact set of 4 travel-size products for on-the-go care.",
+                    "price": "₹799",
+                    "rating": 4.5
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Saver+5",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+5",
+                    "name": "Ultimate Care Box",
+                    "description": "Premium all-in-one kit for shiny, frizz-free hair.",
+                    "price": "₹1,499",
+                    "rating": 4.8
+                }
+            ]
+        },
+        {
+            "title": "HAIR GROWTH",
+            "images": [
+                {
+                    "main": "https://www.arata.in/cdn/shop/files/preview_images/bd738ceb9dc04bfc8232dde63bf4afe2.thumbnail.0000000000.jpg?v=1753094122&width=900",
+                    "subImage": "https://www.arata.in/cdn/shop/files/hair-growth-serum-for-men-and-women-regrowth-in-90-days-free-derma-987.webp?v=1749897380&width=900",
+                    "name": "Arata Hair ",
+                    "description": "Strong hold gel made from natural flaxseed. Perfect for daily",
+                    "price": "₹499",
+                    "rating": 4.5
+                },
+                {
+                    "main": "https://www.arata.in/cdn/shop/files/preview_images/bd738ceb9dc04bfc8232dde63bf4afe2.thumbnail.0000000000.jpg?v=1753094122&width=900",
+                    "subImage": "https://www.arata.in/cdn/shop/files/hair-growth-serum-for-men-and-women-regrowth-in-90-days-free-derma-987.webp?v=1749897380&width=900",
+                    "name": "Arata Hair ",
+                    "description": "Strong hold gel made from natural flaxseed. Perfect for daily",
+                    "price": "₹499",
+                    "rating": 4.5
+                },
+                {
+                    "main": "https://www.arata.in/cdn/shop/files/preview_images/bd738ceb9dc04bfc8232dde63bf4afe2.thumbnail.0000000000.jpg?v=1753094122&width=900",
+                    "subImage": "https://www.arata.in/cdn/shop/files/hair-growth-serum-for-men-and-women-regrowth-in-90-days-free-derma-987.webp?v=1749897380&width=900",
+                    "name": "Arata Hair ",
+                    "description": "Strong hold gel made from natural flaxseed. Perfect for daily",
+                    "price": "₹499",
+                    "rating": 4.5
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Saver+5",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+5",
+                    "name": "Ultimate Care Box",
+                    "description": "Premium all-in-one kit for shiny, frizz-free hair.",
+                    "price": "₹1,499",
+                    "rating": 4.8
+                },
+                {
+                    "main": "https://via.placeholder.com/300x200?text=Saver+5",
+                    "subImage": "https://via.placeholder.com/100x100?text=Sub+5",
+                    "name": "Ultimate Care Box",
+                    "description": "Premium all-in-one kit for shiny, frizz-free hair.",
+                    "price": "₹1,499",
+                    "rating": 4.8
+                }
+            ]
+        }
+    ]
+}
